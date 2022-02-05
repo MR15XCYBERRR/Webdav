@@ -1,0 +1,9 @@
+# Webdav
+pkg update && pkg upgrade
+pkg install python
+pkg install git
+pkg install Ruby
+gem install lolcat
+git clone https://github.com/MR15XCYBERRR/Webdav
+cd Webdav
+sh Webdav.sh
